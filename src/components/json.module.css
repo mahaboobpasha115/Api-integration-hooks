@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+.block {
+  display: flex;
+  flex-flow: wrap;
+  margin: 20px 40px;
+}
+.inner img {
+  height: 400px;
+  width: 400px;
+  margin: 20px 10px;
+}
